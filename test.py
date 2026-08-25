@@ -1,0 +1,1 @@
+print('sawaddee kub Gedien')
